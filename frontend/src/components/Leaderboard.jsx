@@ -1,30 +1,3 @@
-// function Leaderboard({ leaderboard }) {
-//   return (
-//     <div className="bg-white p-6 rounded-lg shadow-md mb-6">
-//       <h2 className="text-xl font-semibold mb-4">Leaderboard</h2>
-//       <table className="w-full border-collapse">
-//         <thead>
-//           <tr className="bg-gray-200">
-//             <th className="border p-2">Rank</th>
-//             <th className="border p-2">Name</th>
-//             <th className="border p-2">Total Points</th>
-//           </tr>
-//         </thead>
-//         <tbody>
-//           {leaderboard.map(user => (
-//             <tr key={user.name} className="hover:bg-gray-100">
-//               <td className="border p-2 text-center">{user.rank}</td>
-//               <td className="border p-2">{user.name}</td>
-//               <td className="border p-2 text-center">{user.totalPoints}</td>
-//             </tr>
-//           ))}
-//         </tbody>
-//       </table>
-//     </div>
-//   );
-// }
-
-// export default Leaderboard;
 
 
 
