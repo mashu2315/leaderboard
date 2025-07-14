@@ -1,7 +1,12 @@
-********************Leaderboard Application********************
+*********************Leaderboard Application*********************
 
 A full-stack leaderboard system built with Node.js (Express) for the backend, React.js for the frontend, MongoDB for data storage, and Tailwind CSS for styling. The application allows users to select or add users, claim random points (1–10), view a real-time leaderboard, and track claim history.
 
+
+*****************Live Preview, Git Repo*******************
+
+Live : https://leaderboard-icen.vercel.app/
+Git Repo : https://github.com/mashu2315/leaderboard
 
 
 *******************Features***************************
@@ -29,7 +34,7 @@ TailwindCSS (For Styling)
 
 
 
-************Backend Setup*****************
+***********************Backend Setup***********************
 
 Navigate to the backend directory:cd backend
 Install dependencies:npm install
@@ -84,7 +89,7 @@ Check the claim history table for recent point claims.
 
 
 
-********************API Endpoints************************
+*********************API Endpoints*************************
 The backend provides the following RESTful API endpoints:
 
 GET /api/users: Fetch all users.
